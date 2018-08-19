@@ -1,2 +1,2 @@
 # vapor-model
-Domain Models of the entire Vapor Platform Eco-System
+Domain Model of the Vapor Drone Control System
